@@ -1,0 +1,71 @@
+{
+  "en": {
+    "Header": {
+      "logo": "Backend Dev"
+    },
+    "Home": {
+      "title": "John Doe",
+      "subtitle": "Backend Developer",
+      "cta": "Contact Me"
+    },
+    "About": {
+      "title": "About Me",
+      "paragraph1": "I'm a passionate backend developer with 5 years of experience in building scalable and efficient server-side applications.",
+      "paragraph2": "My expertise includes designing RESTful APIs, working with databases, and implementing cloud solutions."
+    },
+    "Skills": {
+      "title": "Skills"
+    },
+    "Projects": {
+      "title": "Projects",
+      "project1": "A high-performance e-commerce backend built with Node.js and MongoDB.",
+      "project2": "A real-time chat application using WebSockets and Redis for message queuing.",
+      "project3": "A microservices-based content management system deployed on Kubernetes."
+    },
+    "Contact": {
+      "title": "Contact Me",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "Footer": {
+      "copyright": "© {year} John Doe. All rights reserved."
+    }
+  },
+  "pt": {
+    "Header": {
+      "logo": "Dev Backend"
+    },
+    "Home": {
+      "title": "João Silva",
+      "subtitle": "Desenvolvedor Backend",
+      "cta": "Entre em Contato"
+    },
+    "About": {
+      "title": "Sobre Mim",
+      "paragraph1": "Sou um desenvolvedor backend apaixonado com 5 anos de experiência na construção de aplicações server-side escaláveis e eficientes.",
+      "paragraph2": "Minha especialidade inclui o design de APIs RESTful, trabalho com bancos de dados e implementação de soluções em nuvem."
+    },
+    "Skills": {
+      "title": "Habilidades"
+    },
+    "Projects": {
+      "title": "Projetos",
+      "project1": "Um backend de e-commerce de alto desempenho construído com Node.js e MongoDB.",
+      "project2": "Uma aplicação de chat em tempo real usando WebSockets e Redis para enfileiramento de mensagens.",
+      "project3": "Um sistema de gerenciamento de conteúdo baseado em microserviços implantado no Kubernetes."
+    },
+    "Contact": {
+      "title": "Entre em Contato",
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem"
+    },
+    "Footer": {
+      "copyright": "© {year} João Silva. Todos os direitos reservados."
+    }
+  }
+}
+
